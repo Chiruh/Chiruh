@@ -1,16 +1,10 @@
-### Hi there 👋
+### My name is Atanas Todorov😄
+<hr>
+<img align="right" height="250" width="375" alt="" src="https://media0.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" />
 
 
-**Chiruh/Chiruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning HTML
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
 - 📫 How to reach me: chiruhgg@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 200m rap in Trade Tower No flex
-
+- ⚡ Fun fact: I have 200m rap in Trade Tower No flex.
+- 👾 Proffesial Trade Tower Sniper and dream ruiner.
+- 🤗 RBLX Account: Chiruh_YT and Chiruh222
+- ♪ Tiktok Acc: 13771377, dashngggggg, HASANTR1999
