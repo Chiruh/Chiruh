@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Atanas
 #### I am also Known as Chiruh
 
-I made this profile for fun and educational purposes
+I Made This Profile For Fun And Learning
 
 Learning: CSS
 
