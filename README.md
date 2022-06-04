@@ -1,13 +1,12 @@
-### Hi there 👋, my name is Atanas
-#### I am also Known as Chiruh
+### Hi there 👋, My Name is Atanas
+#### I Am Also Known As Chiruh
+![I Am Also Known As Chiruh](https://img.freepik.com/free-vector/draw-banner-happy-cats-happy-time-concept_45130-1564.jpg?w=2000)
 
 I Made This Profile For Fun And Learning
 
-Learning: CSS
+Skills: CSS
 
-- 🔭 Contact me: chiruhgg@gmail.com
-- 💎 Learning CSS, HTML
-- Fun Fact: Fun fact: Before I thought that coding is boring, but now I love it.
+- 🔭 I’m currently working on this page. 
 
 
 
