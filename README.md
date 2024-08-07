@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS**
 - 📫 How to reach me: chiruhgg@gmail.com
-- Fun Fact: I Thought Coding Was Boring But Now I Love It
+- Lua Developer & Coder
 
 -----
 
